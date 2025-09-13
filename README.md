@@ -1,1 +1,0 @@
-grade mark for student
